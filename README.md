@@ -47,3 +47,10 @@ Hardware  : Custom Circuit Prototyping, 3D Printing, Sensor Networks, E-textiles
 Software  : C++, JavaScript, Python, Pure Data, Max/MSP, TouchDesigner
 Audio/ML  : Embedded ML (RAVE), Neural Audio Synthesis, Logic Pro X
 Research  : Radical Observational Co-Design, Rapid Prototyping, HCI
+```
+## 📚 My Academic Background
+```text
+MA in Computational Arts - Goldsmiths, University of London
+MA in Music - The Chinese University of Hong Kong
+BA(hons) - The University of Hong Kong
+```
