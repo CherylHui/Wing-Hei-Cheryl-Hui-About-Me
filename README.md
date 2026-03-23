@@ -23,17 +23,17 @@ Squeezing massive ML models into edge devices to create unbiased, deeply persona
 * **The AI Angle:** Using small, custom data training to avoid the bias of massive AI models, ensuring the instrument listens to *unique* micro-gestures.
 
 
-## 🚀 My Other Creations
+## ✨ My Other Creations
 I also make installations, audio visual designs and music compositions
 
-### 1.Harmonix Series
+### 1. Harmonix Series
 Series Musical instrument series that promotes mindfulness.
 * 🔗 **[NIME Paper 2025](https://nime.org/proceedings/2025/nime2025_22.pdf)**
 
 ![Harmonix series: Equilibrio](image/Harmonix%20series.jpg)
 
 
-### 2.Yellow
+### 2. Yellow
 Generative AI video design for concert via hacking Gen AI
 
 ### 3. Can you hear me? (Interactive Audiovisual Performance)
