@@ -15,7 +15,7 @@ An open-source, modular digital instrument ecosystem designed alongside disabled
 * **The Impact:** Proves that scalable tech can reject 'one-size-fits-all' accessibility and deliver deeply intimate, bespoke musical agency.
 * 🔗 **[Watch my presentation @ DMLab London 9th March 2026 ](https://www.youtube.com/live/M83MYQ6dr-Q?si=srmuCBhXIfKOlQRL&t=1847)**
 
-* 🔗 **Hardware/Code Repo** *(Open-source release coming late June 2026)*
+* 🔗 **Hardware/Code Repo** *(Open-source release coming late June 2026 due to conference paper review process)*
 
 ### 2. Technologies of Touch (Real-time Neural Audio Synthesis)
 Squeezing massive ML models into edge devices to create unbiased, deeply personal instruments.
