@@ -1,7 +1,7 @@
 # Hi, I'm Cheryl. 👋
 ### Creative Technologist | Inclusive Instrument Maker | Hardware Hacker
 
-> I build digital musical instruments that adapt to humans—not the other way around. As a Creative Technologist focusing on inclusive design, I use physical computing and custom, small-data machine learning to ensure every voice and body movement is heard. I don’t just build tech; I build tools for agency, accessibility, and playful expression.
+> I build digital musical instruments that adapt to humans, not the other way around. As a Creative Technologist focusing on inclusive design, I use physical computing and custom, small-data machine learning to ensure every voice and body movement is heard. I don’t just build tech; I build tools for agency, accessibility, and playful expression.
 
 ![JOS Music Mat in Action](image/JOSMATTEST.jpg)
 
